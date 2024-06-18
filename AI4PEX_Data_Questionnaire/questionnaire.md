@@ -1,0 +1,48 @@
+
+
+- What datasets are you planning to use in your work in EXPECT? Choose as many as you like:
+  - CMIP6
+  - LSFMIP
+  - Climate Digital Twin DestinE
+  - EERIE, NextGEMS
+  - Mars seasonal forecasts
+  - ERA5
+  - ESA CCI observations
+  - Simulations generated within AI4PEX
+  - Not sure (yet)
+  - Others (please tell us)
+- What data frequencies do your analysis need? Choose as many as you like:
+  - monthly
+  - daily
+  - hourly
+  - sub-hourly/minute/higher frequency
+- Your software tools need a specific file format? Choose as many as you like:
+  - Yes, any NetCDF4
+  - Yes, NetCDF4 with CF standards
+  - Yes, NetCDF4 with CMOR standards
+  - Yes, GRIB
+  - No, my tool(s) is/are flexible
+  - I don't know
+- What tools do you usually use to load/process the data? Choose as many as you like:
+  - ESMValTool
+  - cf-python
+  - CDO
+  - xarray
+  - Generic Python tool with Numpy (realized data)
+  - Generic Python tool with Dask (lazy data)
+  - others (please tell us)
+- How much data (in GB) is usually loaded into memory during a typical runtime job?
+- Where do you plan to run the analysis?
+  - Wherever I have the data and computing power
+  - I plan to download the data and work in my infrastructure
+  - Access the data remotely and work interactively
+- Where do you usually run/plan to run your analysis? Choose as many as you like:
+  - CEDA/JASMIN
+  - DKRZ/Levante
+  - CSC/LUMI
+  - Other (please tell us)
+- What type of hardware does your analysis need?
+  - Only CPUs
+  - Only GPUs
+  - Both
+
