@@ -1,4 +1,6 @@
-
+We'd appreciate it if you had 5min to take this survey, this will help us gauge the amount of compute
+resources we'd need to have for the AI4PEX project (both available, and to request new allocations). Very many thanks 
+in advance! :beer:
 
 - What datasets are you planning to use in your work in EXPECT? Choose as many as you like:
   - CMIP6
@@ -16,6 +18,13 @@
   - daily
   - hourly
   - sub-hourly/minute/higher frequency
+- Where do you usually get your data from? Choose as many as you like:
+  - ESGF
+  - Climate Data Store (CDS)
+  - Institution central repository (CEDA/JASMIN, DKRZ...)
+  - Others (please tell us)
+- Do you plan to move data from any one site to LUMI?
+- If the answer to the above question was yes, how much data (in PB) do you need to move to LUMI?
 - Your software tools need a specific file format? Choose as many as you like:
   - Yes, any NetCDF4
   - Yes, NetCDF4 with CF standards
