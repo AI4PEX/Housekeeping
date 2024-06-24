@@ -2,7 +2,7 @@ We'd appreciate it if you had 5min to take this survey, this will help us gauge 
 resources we'd need to have for the AI4PEX project (both available, and to request new allocations). Very many thanks 
 in advance! :beer:
 
-- What datasets are you planning to use in your work in EXPECT? Choose as many as you like:
+- 1. What datasets are you planning to use in your work in EXPECT? Choose as many as you like:
   - CMIP6
   - LSFMIP
   - Climate Digital Twin DestinE
@@ -13,26 +13,31 @@ in advance! :beer:
   - Simulations generated within AI4PEX
   - Not sure (yet)
   - Others (please tell us)
-- What data frequencies do your analysis need? Choose as many as you like:
+- 2. What data frequencies do your analysis need? Choose as many as you like:
   - monthly
   - daily
   - hourly
   - sub-hourly/minute/higher frequency
-- Where do you usually get your data from? Choose as many as you like:
+- 3. What variables are you planning to use? Choose as many as you like:
+  - atmosphere 2D
+  - atmosphere 3D
+  - ocean 2D (including sea ice)
+  - ocean 3D
+- 4. Where do you usually get your data from? Choose as many as you like:
   - ESGF
   - Climate Data Store (CDS)
   - Institution central repository (CEDA/JASMIN, DKRZ...)
   - Others (please tell us)
-- Do you plan to move data from any one site to LUMI?
-- If the answer to the above question was yes, how much data (in PB) do you need to move to LUMI?
-- Your software tools need a specific file format? Choose as many as you like:
+- 5. Do you plan to move data from any one site to LUMI?
+- 6. If the answer to the above question was yes, how much data (in PB) do you need to move to LUMI?
+- 7. Your software tools need a specific file format? Choose as many as you like:
   - Yes, any NetCDF4
   - Yes, NetCDF4 with CF standards
   - Yes, NetCDF4 with CMOR standards
   - Yes, GRIB
   - No, my tool(s) is/are flexible
   - I don't know
-- What tools do you usually use to load/process the data? Choose as many as you like:
+- 8. What tools do you usually use to load/process the data? Choose as many as you like:
   - ESMValTool
   - cf-python
   - CDO
@@ -40,18 +45,17 @@ in advance! :beer:
   - Generic Python tool with Numpy (realized data)
   - Generic Python tool with Dask (lazy data)
   - others (please tell us)
-- How much data (in GB) is usually loaded into memory during a typical runtime job?
-- Where do you plan to run the analysis?
+- 9. How much data (in GB) is usually loaded into memory during a typical runtime job?
+- 10. Where do you plan to run the analysis?
   - Wherever I have the data and computing power
   - I plan to download the data and work in my infrastructure
   - Access the data remotely and work interactively
-- Where do you usually run/plan to run your analysis? Choose as many as you like:
+- 11. Where do you usually run/plan to run your analysis? Choose as many as you like:
   - CEDA/JASMIN
   - DKRZ/Levante
   - CSC/LUMI
   - Other (please tell us)
-- What type of hardware does your analysis need?
+- 12. What type of hardware does your analysis need?
   - Only CPUs
   - Only GPUs
   - Both
-
