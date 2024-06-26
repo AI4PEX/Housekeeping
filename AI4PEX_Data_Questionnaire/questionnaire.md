@@ -62,3 +62,5 @@ in advance! :beer:
   - Only CPUs
   - Only GPUs
   - Both
+- 13. Do you already know what ML/AI will be used and what software do want on LUMI for this? Please tell us here:
+- 14. Final question as an open question: please tell us anything else you'd want to communicate w.r.t data.
