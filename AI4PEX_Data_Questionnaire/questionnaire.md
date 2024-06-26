@@ -49,10 +49,10 @@ in advance! :beer:
   - Generic Python tool with Dask (lazy data)
   - others (please tell us)
 - 9. How much data (in GB) is usually loaded into memory during a typical runtime job?
-- 10. Where do you plan to run the analysis?
-  - Wherever I have the data and computing power
-  - I plan to download the data and work in my infrastructure
-  - Access the data remotely and work interactively
+- 10. Where do you plan to run the analysis? This question is specific to LUMI as the main AI4PEX HPC:
+  - Wherever I have the data and computing power; I will not need LUMI
+  - I plan to download the data and work on LUMI
+  - Access the data remotely and work interactively e.g. I use cloud storage, with remote analysis tools, and minimal transfer of data to LUMI
 - 11. Where do you usually run/plan to run your analysis? Choose as many as you like:
   - CEDA/JASMIN
   - DKRZ/Levante
