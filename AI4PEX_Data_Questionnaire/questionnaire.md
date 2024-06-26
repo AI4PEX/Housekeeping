@@ -2,7 +2,7 @@ We'd appreciate it if you had 5min to take this survey, this will help us gauge 
 resources we'd need to have for the AI4PEX project (both available, and to request new allocations). Very many thanks 
 in advance! :beer:
 
-- 1. What datasets are you planning to use in your work in EXPECT? Choose as many as you like:
+- 1. What datasets are you planning to use in your work in AI4PEX? Choose as many as you like:
   - CMIP6
   - LSFMIP
   - Climate Digital Twin DestinE
