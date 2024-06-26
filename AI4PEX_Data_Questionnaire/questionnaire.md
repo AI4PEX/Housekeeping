@@ -19,6 +19,8 @@ in advance! :beer:
   - daily
   - hourly
   - sub-hourly/minute/higher frequency
+- 2b. What spatial resolution will your data be at? Please give us an estimate here:
+- 2c. Will your analysis be on a region subset or global? If regional subset, how big (in degrees):
 - 3. What variables are you planning to use? Choose as many as you like:
   - atmosphere 2D
   - atmosphere 3D
