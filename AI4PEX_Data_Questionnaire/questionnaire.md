@@ -4,6 +4,7 @@ in advance! :beer:
 
 - 1. What datasets are you planning to use in your work in AI4PEX? Choose as many as you like:
   - CMIP6
+  - NEMO
   - LSFMIP
   - Climate Digital Twin DestinE
   - EERIE, NextGEMS
