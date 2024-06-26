@@ -30,7 +30,7 @@ in advance! :beer:
   - Others (please tell us)
 - 5. Do you plan to move data from any one site to LUMI?
 - 6. If the answer to the above question was yes, how much data (in PB) do you need to move to LUMI?
-- 7. Your software tools need a specific file format? Choose as many as you like:
+- 7. Do your software tools need a specific file format? Choose as many as you like:
   - Yes, any NetCDF4
   - Yes, NetCDF4 with CF standards
   - Yes, NetCDF4 with CMOR standards
