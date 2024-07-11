@@ -1,0 +1,68 @@
+We'd appreciate it if you had 5min to take this survey, this will help us gauge the amount of compute
+resources we'd need to have for the AI4PEX project (both available, and to request new allocations). Very many thanks 
+in advance! :beer:
+
+- 1. What datasets are you planning to use in your work in AI4PEX? Choose as many as you like:
+  - CMIP6
+  - NEMO
+  - LSFMIP
+  - Climate Digital Twin DestinE
+  - EERIE, NextGEMS
+  - Mars seasonal forecasts
+  - ERA5
+  - ESA CCI observations
+  - Simulations generated within AI4PEX
+  - Not sure (yet)
+  - Others (please tell us)
+- 2. What data frequencies do your analysis need? Choose as many as you like:
+  - monthly
+  - daily
+  - hourly
+  - sub-hourly/minute/higher frequency
+- 2b. What spatial resolution will your data be at? Please give us an estimate here:
+- 2c. Will your analysis be on a region subset or global? If regional subset, how big (in degrees):
+- 3. What variables are you planning to use? Choose as many as you like:
+  - atmosphere 2D
+  - atmosphere 3D
+  - ocean 2D (including sea ice)
+  - ocean 3D
+- 4. Where do you usually get your data from? Choose as many as you like:
+  - ESGF
+  - Climate Data Store (CDS)
+  - Institution central repository (CEDA/JASMIN, DKRZ...)
+  - Others (please tell us)
+- 5. Do you plan to move data from any one site to LUMI?
+- 6. If the answer to the above question was yes, how much data (in PB) do you need to move to LUMI?
+- 7. Do your software tools need a specific file format? Choose as many as you like:
+  - Yes, any NetCDF4
+  - Yes, NetCDF4 with CF standards
+  - Yes, NetCDF4 with CMOR standards
+  - Yes, GRIB
+  - No, my tool(s) is/are flexible
+  - I don't know
+- 8. What tools do you usually use to load/process the data? Choose as many as you like:
+  - ESMValTool
+  - cf-python
+  - CDO
+  - xarray
+  - Generic Python tool with Numpy (realized data)
+  - Generic Python tool with Dask (lazy data)
+  - others (please tell us)
+- 9. How much data (in GB) is usually loaded into memory during a typical runtime job?
+- 10. Where do you plan to run the analysis? This question is specific to LUMI as the main AI4PEX HPC:
+  - Wherever I have the data and computing power; I will not need LUMI
+  - I plan to download the data and work on LUMI
+  - Access the data remotely and work interactively e.g. I use cloud storage, with remote analysis tools, and minimal transfer of data to LUMI
+- 11. Where do you usually run/plan to run your analysis? Choose as many as you like:
+  - CEDA/JASMIN
+  - DKRZ/Levante
+  - CSC/LUMI
+  - Other (please tell us)
+- 12. What type of hardware does your analysis need?
+  - Only CPUs
+  - Only GPUs
+  - Both
+- 13. Do you already know what ML/AI methods you will be using, and what software you'd want specifically on LUMI for this? Please tell us here:
+- 14. Final question as an open question: please tell us anything else you'd want to communicate to us w.r.t your data needs.
+
+Cheers muchly!
